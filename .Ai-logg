@@ -1,0 +1,77 @@
+AI-LOGG – LABB 2 (GIK339)
+Grupp: 55
+Namn: Said och Abdulahi
+Verktyg: ChatGPT (OpenAI)
+
+Hur vi använde AI i denna labb
+
+Vi använde ChatGPT som ett stödverktyg för att förstå labbinstruktionerna och förbättra vår kod.
+AI användes inte för att automatiskt generera hela lösningar utan som hjälp för att tolka uppgiften, hitta fel i vår befintliga kod och förbättra struktur och tydlighet.
+
+Exempel på frågor vi ställde till AI
+1. Förstå uppgiften
+
+Vi bad AI att förklara vad uppgiften gick ut på och vad som krävdes för att bli godkänd.
+
+Exempel:
+
+"Kan du förklara vad vi ska göra i denna labb och vad kraven är?"
+
+2. Hjälp med JavaScript
+
+Vi använde AI för att förstå:
+
+Hur eventlyssnare fungerar
+
+Hur e.target används
+
+Skillnaden mellan olika DOM-funktioner som getElementById och getElementsByClassName
+
+Hur man ändrar HTML-innehåll via JavaScript
+
+Exempel:
+
+"Varför fungerar inte min JavaScript-kod?"
+"Vad gör console.log(e.target)?"
+"Hur ska checkboxen fungera enligt instruktionen?"
+
+3. Felsökning
+
+AI användes för att hitta och förklara fel i vår kod, exempelvis:
+
+Felaktiga id-namn
+
+Fel klassnamn i JavaScript
+
+Oanvända variabler
+
+Logiska fel i checkbox-funktionen
+
+Exempel:
+
+"Varför hämtas inte mina inputfält i JavaScript?"
+"Varför ändras inte färgen som den ska?"
+
+
+Hur AI förbättrade vårt arbete
+
+Genom AI-stödet:
+
+Förstod vi uppgiften bättre
+
+Kunde vi identifiera logiska fel snabbare
+
+Blev koden mer strukturerad
+
+Vi har manuellt skrivit och förstått all kod som lämnas in och kan förklara hur koden fungerar om vi blir tillfrågade.
+
+Sammanfattning
+
+AI har använts som:
+
+ Stöd för inlärning
+ Verktyg för felsökning
+ Guide för struktur
+
+
+
