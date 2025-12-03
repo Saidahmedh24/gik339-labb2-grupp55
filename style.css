@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0b1218;
+    color: white;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.container {
+    background: #e6e7e8;
+    width: 800px;
+    margin: 0 auto;
+    padding: 100px;
+    border-radius: 8px;
+    color: black;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+label {
+    display: block;
+    margin-top: 5px;
+}
+
+.textfield {
+    width: 60%;
+    padding: 5px 50px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#removeBtn {
+    display: block;
+    background:#DCE3EC ;
+    margin-top: 10px;
+    padding: 10px 26px;
+    border-radius: 6px;
+}
+
+label {
+    display: inline-block;
+    width: 120px;       /* Flyttar texten till vänster */
+    margin-bottom: 10px;
+}
+
+.textfield, 
+.checkbox {
+    margin-left: 80px;  /* Avstånd mellan text och ruta */
+    margin-bottom: 10px;
+}
+
+/* Den tomma boxen */
+#outputBox {
+    margin-top: 20px;   /* Avstånd från raderna över */
+    width: 50em;
+    height: 40px;
+    background: #EAEBED;
+    border: 1px solid gray;
+    margin-left: 1px; /* gör så att den hamnar under där rutorna är */
+}
